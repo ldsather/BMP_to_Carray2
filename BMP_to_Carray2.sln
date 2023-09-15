@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMP_to_Carray2", "BMP_to_Carray2\BMP_to_Carray2.csproj", "{91374D10-9BF7-4B00-8278-FB023093FC0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91374D10-9BF7-4B00-8278-FB023093FC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91374D10-9BF7-4B00-8278-FB023093FC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91374D10-9BF7-4B00-8278-FB023093FC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91374D10-9BF7-4B00-8278-FB023093FC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54BA5D40-CA59-4EEE-B579-63431E2821DA}
+	EndGlobalSection
+EndGlobal
